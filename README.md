@@ -67,4 +67,11 @@ Users can view digital menus, check available time slots, explore special offers
 
 ### Project Idea by:  
 **Ouali Said**
+
 **Fezzaa El hadi**
+
+**Choucha Amira**
+
+**Rebih Ilham**
+
+**Roubah Nour El houda**
